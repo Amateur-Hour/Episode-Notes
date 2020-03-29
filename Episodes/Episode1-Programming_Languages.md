@@ -14,38 +14,41 @@
   - Spring
   - JavaFX
   - Gradle/Maven
-  - Kotlin
+  - [Kotlin](https://kotlinlang.org/)
   - Android Studio
 - Python
+  - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
   - Flask/Django
-  - Kivy
+  - [Kivy](https://kivy.org/)
   - Machine Learning (Tensorflow, PyTorch, etc.)
 - Ruby
   - Ruby on Rails
-  - Artoo
+  - [Artoo](http://artoo.io/)
 - [JavaScript/TypeScript](https://www.guru99.com/typescript-vs-javascript.html)
   - Node.js
   - Vue/Angular/React
   - react-native
-  - Electron
+  - [Electron](https://www.electronjs.org/)
   - Phaser3/WebGL
+  - [Viro React Native](https://viromedia.com/viroreact) 
 - C#
   - .NET
-  - Blazor
+  - [Blazor](https://learn-blazor.com/getting-started/what-is-blazor/)
   - Unity
 - C/C++
   - [UnrealEngine](https://unrealcpp.com/)
-  - ROS
+  - [ROS](https://wiki.ros.org/)
+    - [Gazebo](https://wiki.ros.org/gazebo) 
   - Arduino
 - Assembly & Hardware Definition Languages (i.e. Verilog)
-  - iVerilog
-  - RISCV
+  - [iVerilog](http://iverilog.icarus.com/)
+  - [RISCV](https://riscv.org/)
 - Go
   - [Gorilla](http://www.gorillatoolkit.org/)
   - [TinyGo](https://github.com/tinygo-org/tinygo)
 - Rust
   - [Rocket](https://rocket.rs/)
-  - WebAssembly
+  - [WebAssembly](https://webassembly.org/)
 - Swift/Objective-C
 
 ### [LibHunt](https://www.libhunt.com/)
