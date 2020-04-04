@@ -2,9 +2,10 @@
 
 ### Contact
 - Reuben N. / @NinanReuben
+- Luke L. 
 - Amateur Hour Twitter / @AmateurHourDevs
 
-## Luke's Experience with Web Development
+## Luke's Experience with Web Development 
 1. Highschool class (Dreamweaver)
 2. React / React Native
 3. JavaScript
@@ -31,7 +32,7 @@
    4. Material UI
       1. Polymer
       2. [Material Design Guidelines](https://material.io/design/)
-4. Oblivious to prototyping 
+4. Oblivious to prototyping
 5. Invision Studio and Figma
 6. Only recently picked up frontend javascript frameworks (VueJS)
 7. Tried React and gave up
@@ -48,3 +49,8 @@
 3. Frequent updates with React sometimes break things
 
 ## We don't understand Angular
+
+## Repo Spotlight
+https://github.com/aliyr/Nodejs-Developer-Roadmap
+
+
